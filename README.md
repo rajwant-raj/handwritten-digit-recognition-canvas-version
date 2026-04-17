@@ -54,6 +54,16 @@ It reuses the same trained model (my_model.keras) but introduces a new Streamlit
 ---
 
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](handwritten-digit-recognition/interface-ui.png)_
+
+
+
+---
+
+
 ## 📁 Folder Structure
 
 ```
